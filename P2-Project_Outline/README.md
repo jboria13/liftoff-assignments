@@ -13,12 +13,16 @@ This app will help users stay organized when shopping and help users manage thei
 
 ### Features
 User Account: Users will create accounts and use their accounts to upload items to the database. Users will have a profile page to view uploads and previous shopping lists they created.
+
 Google Map Integration: Will allow users to see the prices for stores close to them.
+
 Search: Users will search for items to check prices.
+
 Shopping Lists: Users can put together store specific shopping list based off of items in the database. 
 
 ### Technologies
 Ruby on Rails
+
 MySQL
 
 ### What I'll Have to Learn
