@@ -11,12 +11,15 @@ For this assignment, you'll create some initial plans for your project.
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 *Home Page
+
 ![Home Page Wireframe](https://raw.githubusercontent.com/jboria13/liftoff-assignments/master/P3-Project_Planning/Wireframes/HomePage.jpg)
 
 *Add Receipt Page
+
 ![Add Receipt Page](https://raw.githubusercontent.com/jboria13/liftoff-assignments/master/P3-Project_Planning/Wireframes/AddReceipt.jpg)
 
 *Shopping List Page
+
 ![Shopping List Page](https://raw.githubusercontent.com/jboria13/liftoff-assignments/master/P3-Project_Planning/Wireframes/ShoppingLists.jpg)
 
 ### Project Tracker
