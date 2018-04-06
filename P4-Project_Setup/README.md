@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[Grocery Price repository link] (https://github.com/jboria13/grocery-prices)
+[Grocery Price repository link](https://github.com/jboria13/grocery-prices)
