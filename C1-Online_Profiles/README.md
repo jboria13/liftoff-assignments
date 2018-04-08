@@ -17,4 +17,4 @@ Provide a link to your LinkedIn account here.
 [LinkedIn Account](https://www.linkedin.com/in/joseph-boria-8b287820/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Resume Link](https://github.com/jboria13/liftoff-assignments/blob/master/C1-Online_Profiles/TechnicalResume.pdf)
