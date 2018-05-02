@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Presentation Link](https://github.com/jboria13/liftoff-assignments/blob/master/P6-Project_Presentation/Grocery%20Prices%20Project.pdf)
